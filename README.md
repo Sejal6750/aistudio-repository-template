@@ -16,16 +16,16 @@ Traditional deletion dashboards may report workflow completion without independe
 GhostTrace AI aims to bridge this gap by supporting evidence-based deletion audits and structured remediation planning.
 
 💡 Key Features
-Evidence-Based Auditing: Investigate available records, logs, and supporting evidence.
-Identity Resolution: Connect current and historical user identifiers.
-Residual Data Detection: Identify records that may remain after a deletion request.
-Data-Flow Risk Analysis: Detect active processes that could recreate deleted information.
-Restore-Risk Analysis: Investigate backups and restoration pathways.
-Policy-Based Remediation: Determine the required treatment for affected records.
-Verification Workflows: Organize checks for deletion, redaction, anonymization, and process deactivation.
-Structured Audit Results: Generate ordered findings, remediation actions, and verification steps.
-CSV Import and Export: Process audit requests and generate structured results.
-Evaluation and Reporting: Assess output accuracy, evidence coverage, sequence correctness, and model usage.
+- **Evidence-Based Auditing**: Investigate available records, logs, and supporting evidence.
+- **Identity Resolution**: Connect current and historical user identifiers.
+- **Residual Data Detection**: Identify records that may remain after a deletion request.
+- **Data-Flow Risk Analysis**: Detect active processes that could recreate deleted information.
+- **Restore-Risk Analysis**: Investigate backups and restoration pathways.
+- **Policy-Based Remediation**: Determine the required treatment for affected records.
+- **Verification Workflows**: Organize checks for deletion, redaction, anonymization, and process deactivation.
+- **Structured Audit Results**: Generate ordered findings, remediation actions, and verification steps.
+- **CSV Import and Export**: Process audit requests and generate structured results.
+- **Evaluation and Reporting**: Assess output accuracy, evidence coverage, sequence correctness, and model usage.
 
 Feature availability depends on the implemented application and its connected data sources.
 
