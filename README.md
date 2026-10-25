@@ -51,10 +51,11 @@ Version Control: Git and GitHub
 Update this section with the actual frameworks, libraries, database engine, and AI provider used in your implementation.
 
 📊 Audit Statuses
-Status	Meaning
-COMPLETE	Available evidence supports that all applicable deletion requirements have been satisfied.
-INCOMPLETE	One or more requirements remain unresolved, or further remediation or verification is required.
-NOT_APPLICABLE	No deletion or deletion verification is authorized for the case under the applicable challenge rules.
+| Status | Meaning |
+| --- | --- |
+| COMPLETE | Available evidence supports that all applicable deletion requirements have been satisfied. |
+| INCOMPLETE | One or more requirements remain unresolved, or further remediation or verification is required. |
+| NOT_APPLICABLE | No deletion or deletion verification is authorized for the case under the applicable challenge rules. |
 
 These statuses must be assigned according to the configured rules and available evidence, not merely copied from a reported workflow status.
 
