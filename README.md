@@ -1,5 +1,5 @@
-👻 GhostTrace AI
-Evidence-Based Data Deletion Auditor
+# 👻 GhostTrace AI
+### Evidence-Based Data Deletion Auditor
 
 GhostTrace AI is an AI-assisted data governance and privacy auditing platform designed to investigate whether personal data has actually been deleted across distributed systems.
 
